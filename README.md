@@ -3,7 +3,7 @@
 
    <a href="https://discord.com/users/941424852571656325" target="_blank">
 
-      <img src="https://lanyard-profile-readme.vercel.app/api/941424852571656325?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Su%20anda%20aktif%20degil">
+      [![Discord](https://lanyard-profile-readme.vercel.app/api/941424852571656325?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Su%20anda%20aktif%20degil)]
 
    </a>
 
