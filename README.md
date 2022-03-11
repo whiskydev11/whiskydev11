@@ -1,7 +1,7 @@
 
 <div align="center">
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/941424852571656325?hideDiscrim=false)](https://discord.com/users/941424852571656325)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/941424852571656325?idleMessage=Şu anda aktif değilim kanka :D)](https://discord.com/users/941424852571656325)
 
 
 ### 
@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiskydev11&hide=go,php,svelte&show_icons=true&theme=react)](https://github.com/whiskydev11/whiskydev11)
 
-<img src="https://komarev.com/ghpvc/?username=whiskydev11&label=Ziyaretçi%20Sayısı&color=0066ff" alt="kardespro" />
+<img src="https://komarev.com/ghpvc/?username=whiskydev11&label=Ziyaretçi%20Sayısı&color=0066ff" alt="whiskydev11" />
