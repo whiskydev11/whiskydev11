@@ -1,7 +1,7 @@
 
 <div align="center">
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/941424852571656325?idleMessage=Şu%20anda%20aktif%20değilim..)](https://discord.com/users/941424852571656325)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/941424852571656325?idleMessage=Şu%20anda%20birşey%20yapmıyorum..)](https://discord.com/users/941424852571656325)
 
 
 ### 
