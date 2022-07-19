@@ -1,3 +1,6 @@
+Merhaba ben whisky!
+
+Genelde Back-End olarak çalışıyorum, sizlere sunduğum projelere profilimden ulaşabilirsiniz.
 
 <div align="center">
 
